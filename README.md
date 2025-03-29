@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JarichOrbons
 - 👀 I’m interested in IT development, AI, cybersec
 - 🌱 I’m currently learning python
-- 📫 How to reach me: <a href="https://www.jarichorbons.nl/">Personal website</a> | <a href="https://www.linkedin.com/in/jarichorbons/">Linkedin</a> | <a href="mailto:info@jarichorbons.nl">Email</a> |
+- 📫 How to reach me: <a href="https://www.jarichorbons.nl/" target="_blank>Personal website</a> | <a href="https://www.linkedin.com/in/jarichorbons/" target="_blank>Linkedin</a> | <a href="mailto:info@jarichorbons.nl">Email</a> |
 - Certifications: ITIL v4, AZ-900, MS-900, AI-900, SC-900
 
 <!---
